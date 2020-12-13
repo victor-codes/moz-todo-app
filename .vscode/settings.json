@@ -1,0 +1,9 @@
+{
+    "emmet.includeLanguages": {
+        "javascript": "javascriptreact"
+    },
+    "emmet.excludeLanguages": [
+        "markdown"
+    ],
+    "compile-hero.disable-compile-files-on-did-save-code": true
+}
